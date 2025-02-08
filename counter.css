@@ -1,0 +1,52 @@
+
+#obey{
+    height: 400px;
+    width: 400px;
+    border: solid 3px blue;
+    border-radius: 50px;
+    padding: 15px;
+    background-color:gray ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+    
+#btn-below{
+    display: flex;
+    justify-content: center;
+}
+   
+button{
+    /* height: 20px;
+    width: 20px; */
+
+    padding: 30px;
+    font-size: large;
+    background-color:black;
+    color: red;
+    
+    
+}
+#head{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+text-transform:capitalize ;}
+
+    #p{
+        background-color: burlywood;
+        
+    }
+
+#output{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+#true{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-evenly;
+}
