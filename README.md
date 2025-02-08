@@ -1,0 +1,1 @@
+This file is consisting of HTML,JAVA,CSS.It is a counter which starts the count from 0 and increments and decrement the count based on user inputs and changes the background colors randomly on increment and decrement inputs and also has a option to reset the count to the starting.feel free to edit this codes and suggest or provide improvements for it
